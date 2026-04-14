@@ -53,5 +53,7 @@ Future Improvements:
   3. Enhance interactivity with drill-through features
   4. Integrate real-time data sources
 
-Dashboard Preview:
+Screenshot :
+
+Dashboard Preview: (https://github.com/NinadInnovates/EV-Sales-Executive-Dashboard/blob/main/Snapshot%20of%20sales%20dashboard.png)
 
